@@ -13,8 +13,8 @@ function App() {
   };
 
   const handleLogout = () => {
-    setIsLoggedIn(false);
-    setSwitchView('login');
+    setIsLoggedIn(false)
+    setSwitchView('login')
   };
   
   return (
